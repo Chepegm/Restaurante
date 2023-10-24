@@ -1,0 +1,6 @@
+com\example\demo\Controller\Controller.class
+com\example\demo\DemoApplication.class
+com\example\demo\Entity\Table.class
+com\example\demo\Utils\TableType.class
+com\example\demo\Entity\Cliente.class
+com\example\demo\ServletInitializer.class
